@@ -16,7 +16,7 @@
 ## Contributing
 ### Contributions and feedback are welcome. If you have any suggestions or would like to report an issue, please feel free to submit a pull request or open an issue on the repository.
 
-This README reflects an independent approach to the project and includes only the resources directly relevant to your individual work.
+
 
 
 
